@@ -9,6 +9,6 @@ pip install PrettyTable
 ```
 Clone this repository.
 ```git
-
+git clone https://github.com/richung99/PughPython.git
 ```
 Run ```pughairtable-demo.py```.
