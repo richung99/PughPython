@@ -1,5 +1,5 @@
 # PughPython
-Python Generated Pugh Chart Generated from Airtable
+Python Generated Pugh Chart Generated from Airtable.
 You can find out more about this repository from my blog: https://medium.com/@richardchung_14516
 ## Installation
 Install Python 3, as well as the following libraries: numpy, PrettyTable. Assuming Python 3 is installed:
